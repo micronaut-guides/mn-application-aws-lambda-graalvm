@@ -1,4 +1,6 @@
-# Deploy a Micronaut application as a GraalVM Native Image to AWS Lambda
+# This guide has been deprecated and moved to https://github.com/micronaut-projects/micronaut-guides Please open any issue or pull request in that repository.
 
-Guide: http://guides.micronaut.io/mn-application-aws-lambda-graalvm/guide/index.html
+Old Guide: 
+
+https://micronaut-projects.github.io/micronaut-guides-old/mn-application-aws-lambda-graalvm/guide/index.html
 
